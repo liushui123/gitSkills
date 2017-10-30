@@ -4,6 +4,7 @@ ehthumbs.db
 Desktop.ini
 
 # php
+*.py
 *.csv
 
 # my cinfigurations:
